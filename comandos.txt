@@ -1,0 +1,5 @@
+git config --global user.name "Brandon"
+git config --global user.email "brandon.morales@etec.sp.gov.br"
+
+git init
+git status
